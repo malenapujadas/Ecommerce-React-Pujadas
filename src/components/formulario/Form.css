@@ -1,0 +1,20 @@
+
+.formulario{
+    padding-left: 30px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    grid-gap: 16px;
+    gap: 16px;
+}
+input{
+    width: 30%;
+}
+.datosp{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.finish{
+    margin-top: 30px;
+} 

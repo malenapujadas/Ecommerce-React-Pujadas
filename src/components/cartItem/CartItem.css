@@ -1,0 +1,29 @@
+
+.claves{
+    display: flex;
+}
+
+.valores{
+    display: flex;
+}
+
+.clave{
+    width: 192px;
+    color:brown;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.valor{
+    width: 192px;
+    color: black;
+    text-align: center;
+}
+
+.borrar_producto p{
+    color: #d25a1e;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 20px;
+}

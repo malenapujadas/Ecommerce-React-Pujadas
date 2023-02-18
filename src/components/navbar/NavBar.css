@@ -1,0 +1,33 @@
+.navbar{
+    background-color:white;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    color: rgb(107, 26, 26);
+    font-weight: bold;
+}
+.navbar ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    margin-left: 15px;
+    text-align: center;
+}
+.navbar a:hover{
+    color: rgb(107, 26, 26);
+}
+
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+}

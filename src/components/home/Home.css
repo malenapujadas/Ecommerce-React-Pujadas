@@ -1,0 +1,32 @@
+
+.fondo{
+    display: flex;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.fondoImg{
+    height: 100vh;
+    width: 50%;
+    background-image: url(../../../public/imagenes/foto_portada.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    float: left;
+    position: relative;
+}
+.fondoColor{
+    height: 100vh;
+    width: 50%;
+    background-color: rgb(107, 26, 26);
+    float: right;
+    position: relative
+}
+.nombre{
+    text-align: center;
+    font-size: 100px;
+    margin-top: 80px;
+    position: absolute;
+    margin-left: 40%;
+    color: rgb(245, 231, 206);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}

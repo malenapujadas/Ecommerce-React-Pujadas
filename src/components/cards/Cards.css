@@ -1,0 +1,6 @@
+.card{
+    
+    display:inline-flex;
+    align-content: space-between;
+    margin: 10px;
+}
